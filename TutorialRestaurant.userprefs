@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TutorialVB/App_Code/Data/Db.vb">
+    <Files>
+      <File FileName="TutorialVB/AjaxTasks.aspx" Line="1" Column="1" />
+      <File FileName="TutorialVB/AjaxTasks.aspx.vb" Line="1" Column="1" />
+      <File FileName="TutorialVB/App_Code/Data/DataManager.vb" Line="1" Column="1" />
+      <File FileName="TutorialVB/App_Code/Data/Db.vb" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
